@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B4B4B4&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=Welcome%21&edge_flat=false"/></a>
+</p>
+
 <h2 align="center">Hi!, I`m Kevin Kim👋🏻 </h2>
 
 <p align="center">
@@ -32,4 +36,3 @@
 
 
 ![Kevin KIm's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodioKim&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
