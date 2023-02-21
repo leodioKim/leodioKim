@@ -29,3 +29,7 @@
   <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=#F7DF1E"&link=mailto:kevin8603k@gmail.com"/>
   </a>
 </p>
+
+
+![Kevin KIm's GitHub stats](https://github-readme-stats.vercel.app/api?username=leodioKim&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
