@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Front-end Developer 🚀
+  I`m Front-end Developer 💻
 </p>
 
 <h2 align="center">💪🏻 My Skills 🦾</h2>
